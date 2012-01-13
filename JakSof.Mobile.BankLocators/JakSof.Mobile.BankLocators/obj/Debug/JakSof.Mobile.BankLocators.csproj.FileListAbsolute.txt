@@ -1,0 +1,15 @@
+c:\users\jake\documents\visual studio 2010\Projects\JakSof.Mobile.BankLocators\JakSof.Mobile.BankLocators\Bin\Debug\ApplicationIcon.png
+c:\users\jake\documents\visual studio 2010\Projects\JakSof.Mobile.BankLocators\JakSof.Mobile.BankLocators\Bin\Debug\Background.png
+c:\users\jake\documents\visual studio 2010\Projects\JakSof.Mobile.BankLocators\JakSof.Mobile.BankLocators\Bin\Debug\JakSof.Mobile.BankLocators.dll
+c:\users\jake\documents\visual studio 2010\Projects\JakSof.Mobile.BankLocators\JakSof.Mobile.BankLocators\Bin\Debug\JakSof.Mobile.BankLocators.pdb
+c:\users\jake\documents\visual studio 2010\Projects\JakSof.Mobile.BankLocators\JakSof.Mobile.BankLocators\Bin\Debug\AppManifest.xaml
+c:\users\jake\documents\visual studio 2010\Projects\JakSof.Mobile.BankLocators\JakSof.Mobile.BankLocators\Bin\Debug\JakSof.Mobile.BankLocators.xap
+c:\users\jake\documents\visual studio 2010\Projects\JakSof.Mobile.BankLocators\JakSof.Mobile.BankLocators\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\jake\documents\visual studio 2010\Projects\JakSof.Mobile.BankLocators\JakSof.Mobile.BankLocators\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\jake\documents\visual studio 2010\Projects\JakSof.Mobile.BankLocators\JakSof.Mobile.BankLocators\obj\Debug\ResolveAssemblyReference.cache
+c:\users\jake\documents\visual studio 2010\Projects\JakSof.Mobile.BankLocators\JakSof.Mobile.BankLocators\obj\Debug\App.g.i.cs
+c:\users\jake\documents\visual studio 2010\Projects\JakSof.Mobile.BankLocators\JakSof.Mobile.BankLocators\obj\Debug\MainPage.g.i.cs
+c:\users\jake\documents\visual studio 2010\Projects\JakSof.Mobile.BankLocators\JakSof.Mobile.BankLocators\obj\Debug\JakSof.Mobile.BankLocators.g.resources
+c:\users\jake\documents\visual studio 2010\Projects\JakSof.Mobile.BankLocators\JakSof.Mobile.BankLocators\obj\Debug\JakSof.Mobile.BankLocators.dll
+c:\users\jake\documents\visual studio 2010\Projects\JakSof.Mobile.BankLocators\JakSof.Mobile.BankLocators\obj\Debug\JakSof.Mobile.BankLocators.pdb
+c:\users\jake\documents\visual studio 2010\Projects\JakSof.Mobile.BankLocators\JakSof.Mobile.BankLocators\obj\Debug\XapCacheFile.xml
